@@ -13,6 +13,7 @@ chosen, and how to prove it works.
 | [`runbooks/`](runbooks/) | *How do I build / operate it?* | Numbered phases. Every step says what it does, why, and how to **verify** it |
 | [`concepts/`](concepts/README.md) | *How does this mechanism actually work?* | Plain-language explainers (OIDC trust, Karpenter, IAM DB auth, Route 53 failover…) |
 | [`journal/`](journal/) | *What happened when we built it?* | Dated build log: what we did, what we found, what broke and how it was fixed |
+| [`project/`](project/prompts.md) | *What was asked for?* | The owner's original prompts, in order, with the outcome of each |
 
 ## Conventions
 
